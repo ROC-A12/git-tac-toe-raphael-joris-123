@@ -1,18 +1,19 @@
 ### Spelers
-- Speler X = Raphaël
-- Speler O = Joris
+- Speler ❎ = Raphaël
+- Speler ⏺️ = Joris
 
 ### Bord (simple variant)
 | - | 1 | 2 | 3 |
 |---|---|---|---|
-| A | O | X | O |
-| B |🔲| X |🔲|
-| C | X | O |🔲|
+| A |⏺️|❎|⏺️|
+| B |🔲|❎|🔲|
+| C |❎|⏺️|⏺️|
 
 ### Logboek
-1. Speler O A1
-2. Speler X A2
-3. Speler O A3
-4. Speler X B2
-5. Speler O C2
-6. Speler X C1
+1. Speler ⏺️ A1
+2. Speler ❎ A2
+3. Speler ⏺️ A3
+4. Speler ❎ B2
+5. Speler ⏺️ C2
+6. Speler ❎ C1
+7. Speler ⏺️ C3
