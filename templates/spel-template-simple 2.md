@@ -1,11 +1,11 @@
 ### Spelers
-- Speler X = Raphaël
-- Speler O = Joris
+- Speler X = __
+- Speler O = __
 
 ### Bord (simple variant)
 | - | 1 | 2 | 3 |
 |---|---|---|---|
-| A | O |🔲|🔲|
+| A |🔲|🔲|🔲|
 | B |🔲|🔲|🔲|
 | C |🔲|🔲|🔲|
 
